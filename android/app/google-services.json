@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074152454044",
+    "project_id": "jobscatalog-e3e93",
+    "storage_bucket": "jobscatalog-e3e93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074152454044:android:63c20adfdf3e99ff507a59",
+        "android_client_info": {
+          "package_name": "com.example.jobs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjf7eHtJ3-ey2KvAtE0-suMEWOH9GH7qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
